@@ -4,9 +4,8 @@ Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 
 ## O que voçê vai ver nesse Projeto
 
-- **DAO** - Camada de dados separada da interface 
-- **POO** - Criação de estrutura POO em 3 camadas 
-- **DataTable** - Conversão de Reader para manipular DataGrid
+- **CRUD** - Conjunto de quatro operações essenciais que permitem a manipulação de dados persistentes (criar, ler, atualizar e excluir).
+- **DAO** - Centralizar e isolar toda a lógica de persistência e acesso a dados.
 
 ## Execução da aplicação
 
