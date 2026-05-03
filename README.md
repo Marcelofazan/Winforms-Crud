@@ -22,8 +22,3 @@ Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
 
 ```
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
-
-### Aqui está uma demonstração do Projeto
-
-<img width="806" height="491" alt="CRUD-DAO-Windows-Form" src="https://github.com/user-attachments/assets/0fdac304-c2f5-48bf-b544-341172e2aa99" />
-
