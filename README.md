@@ -2,7 +2,6 @@
 Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 
 #### O que voçê vai ver nesse Projeto
-- **CRUD** - Conjunto de quatro operações essenciais que permitem a manipulação de dados persistentes (criar, ler, atualizar e excluir).
 - **DAO** - Centralizar e isolar toda a lógica de persistência e acesso a dados.
 
 #### Execução da aplicação
