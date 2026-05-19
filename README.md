@@ -1,4 +1,4 @@
-## 🚀 CRUD-Windows-Form-MySQL
+## 👤 CRUD-Windows-Form-MySQL
 Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 
 #### O que voçê vai ver nesse Projeto
