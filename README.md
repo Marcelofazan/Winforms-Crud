@@ -6,7 +6,7 @@ Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 |-----------|-----------|
 |  **DAO** | Centralizar e isolar toda a lógica de persistência e acesso a dados. |
 
-#### Executar a aplicação
+#### 🔄 Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL.
 
 #### ⚠️ String de conexão do banco
