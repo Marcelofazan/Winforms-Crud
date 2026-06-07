@@ -6,9 +6,12 @@ Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 |-----------|-----------|
 |  **DAO** | Componente (Data Access Object) é um padrão de projeto que centraliza e isola toda a lógica de persistência e acesso a dados. |
 |  **VO** | Value Object (Objeto de Valor), um conceito do Domain-Driven Design (DDD) usado para representar um valor descritivo sem identidade conceitual própria |
- 
+
+#### Requisitos do Projeto
+- Para executar a aplicação é necessário a executar o Script do MySQL.
+
 #### 🔄 Executar a aplicação
-- Para executar a aplicação é necessário executar o Script do MySQL.
+- Necessário varinha mágica na Solução do Visual Studio
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
