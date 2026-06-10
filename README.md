@@ -10,9 +10,6 @@ Exemplo de criação de CRUD em Windows Form C# com banco de dados MySQL.
 #### Requisitos do Projeto
 - Para executar a aplicação é necessário a executar o Script do MySQL.
 
-#### 🔄 Executar a aplicação
-- Necessário varinha mágica na Solução do Visual Studio
-
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
 
@@ -20,3 +17,6 @@ Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
 connectionString="server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True"
 ```
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
+#### 🔄 Executar a aplicação
+- Necessário varinha mágica na Solução do Visual Studio
