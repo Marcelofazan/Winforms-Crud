@@ -1,5 +1,5 @@
 ## 💻 Winforms-Crud
-Exemplo de CRUD em Windows Form C# com banco de dados MySQL.
+Exemplo de CRUD Windows Form em C# .NET com banco de dados MySQL.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
