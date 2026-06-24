@@ -8,7 +8,7 @@ Exemplo de CRUD Windows Form em C# .NET com banco de dados MySQL.
 |  **VO** | Value Object (Objeto de Valor), um conceito do Domain-Driven Design (DDD) usado para representar um valor descritivo sem identidade conceitual própria |
 
 #### 💬 Requisitos do Projeto
-- Para executar a aplicação é necessário a executar o Script do MySQL.
+- Para executar a aplicação é necessário executar o Script do MySQL.
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **app.config**, no trecho indicado:
